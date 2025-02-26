@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Abdallah Salem",
+      "email": "abdallahalaasalem7@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Elon Musk",
+      "email": "elonmusk1@gmail.com"
+    },
+    {
+      "id": "c28a",
+      "name": "Abdallah Qandil",
+      "email": "abdallahqandil@gmail.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "How can humans live in Mars?",
+      "author": "Elon Musk"
+    },
+    {
+      "id": "2",
+      "title": "Software Testing Tips",
+      "author": "Abdallah Salem"
+    }
+  ]
+}
