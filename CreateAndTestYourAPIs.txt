@@ -1,0 +1,24 @@
+1) Install JSON Server
+	1- Download and Install Node.js -> 
+		nodejs.org
+	2- install JSON server -> 
+		npm install -g json-server
+
+2) Create a JSON File with Dummy Data
+	In our example, we created the file with 2 resources:
+	users and posts
+
+3) Run JSON Server
+	json-server db.json
+	
+4) Test the API Endpoints using Postman
+	Users:
+		Get all users:	 	http://localhost:3000/users
+		Get user by ID:	 	http://localhost:3000/users/1 	(path parameter)
+		Add a new user:	 	http://localhost:3000/users	  	(add the body)
+		Update user info: 	http://localhost:3000/users/1	(body)
+		Delete a user: 		http://localhost:3000/users2/2
+	
+	Posts:
+		Get all posts:		http://localhost:3000/posts
+	
